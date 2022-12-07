@@ -17,7 +17,7 @@ android-junit = "1.1.4"
 android-espresso = "3.5.0"
 android-ktx = "1.7.0"
 lifecycle = "2.5.1"
-qigsaw = "1.4.1"
+qigsaw = "1.4.1-hotfix01"
 
 
 [libraries]
